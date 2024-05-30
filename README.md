@@ -22,6 +22,3 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-idu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suchitra-idu&show_icons=true&theme=radical)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Suchitra-idu&theme=radical)  
-
