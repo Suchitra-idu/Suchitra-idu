@@ -1,4 +1,4 @@
-### Hi there 👋, Im suchitra
+# Hello there 👋, Im suchitra
 #### I am a passionate computer science student 
 I'm a passionate Computer Science student specializing in Artificial Intelligence at NIBM. I'm on a journey to explore the vast universe of computer science.
 
@@ -10,6 +10,7 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 - **Skills**: Linux
 - **Frameworks and Libraries**: Unity, OpenCV, TensorFlow
 
+## About Me 📚
 
 - 🔭 I’m currently working on I'm currently studying at NIBM (Sri Lanka)) 
 - 🌱 I’m currently learning Svelte 
