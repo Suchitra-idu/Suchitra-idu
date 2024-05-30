@@ -14,7 +14,7 @@ Skills: Unity, Arduino, Python (OpenCV, TensorFlow), Java,
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Suchitra-idu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/suchitra_idumina//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-idu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-idu)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suchitra-idu&show_icons=true&theme=radical)  
 
