@@ -7,7 +7,7 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 - **Languages**: Python, C#(Unity), Arduino,(and always expanding!)
 - **Tools**: Git, VS Code, Figma
-- **Skills**: Linux
+- **Skills**: Linux, MySQL
 - **Frameworks and Libraries**: Unity, OpenCV, TensorFlow
 
 ## About Me 📚
