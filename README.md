@@ -1,41 +1,22 @@
-## Hello there 👋
+### Hi there 👋, Im suchitra
+#### I am a passionate computer science student 
+I'm a passionate Computer Science student specializing in Artificial Intelligence at NIBM. I'm on a journey to explore the vast universe of computer science.
 
-<!--
-**Suchitra-idu/Suchitra-idu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Unity, Arduino, Python (OpenCV, TensorFlow), Java, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on I'm currently studying at NIBM (Sri Lanka)) 
+- 🌱 I’m currently learning Svelte 
+- 👯 I’m looking to collaborate on Any project that can teach me more about the amazing field of computer science 
+- 📫 How to reach me: suchitraidumina@gmail.com 
+- ⚡ Fun fact: I'm interested in learning many new things such as Philosophy  
 
-I'm Suchitra, a passionate Computer Science student specializing in Artificial Intelligence at NIBM. I'm on a journey to explore the vast universe of computer science.
 
-[![Suchitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suchitra-idu)](https://github.com/anuraghazra/github-readme-stats)
-## About Me 📚
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Suchitra-idu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/suchitra_idumina//)  
 
-- 🤖 Studying **Computer Science with Artificial Intelligence** at NIBM.
-- 💻 I love **coding**; it's not just my study, it's my passion scence i was a kid.
-- 🤖 Fascinated by **Artificial Intelligence** because I believe in creating intuitive and impactful user experiences.
-- 🌱 Always learning and experimenting with new technologies and design principles.
-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-idu)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Toolbox 🛠️
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suchitra-idu&show_icons=true&theme=radical)  
 
-- **Languages**: Python, C++, Kotlin (and always expanding!)
-- **Tools**: Git, VS Code, Figma
-- **Design**: User Interface (UI), User Experience (UX), Interaction Design (IxD)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Suchitra-idu)  
 
-## Connect with Me 🌐
-
-- LinkedIn - [Let's connect and explore endless possibilities](http://linkedin.com/in/gamithasam)
-- Buy Me a Coffee - [Support my work and fuel my passion for technology and design.](https://www.buymeacoffee.com/gamithasam)
-- Discord - [Join me on Discord to chat about tech and design.](https://discordapp.com/users/gamitha_sam)
-
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just have a chat about technology and design!
