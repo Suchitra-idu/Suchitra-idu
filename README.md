@@ -6,7 +6,7 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 ## My Toolbox 🛠️
 
 - **Languages**: Python,JS, C#(Unity), Arduino,(and always expanding!)
-- **Tools**: Git, VS Code, Figma
+- **Tools**: Git, Figma, Docker
 - **Skills**: Linux, MySQL, firebase
 - **Frameworks and Libraries**: Unity, OpenCV, TensorFlow, svelte, sveltekit, Bootstrap 
 
