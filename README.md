@@ -29,4 +29,4 @@ Some production agentic AI and RAG work was built for client and internship proj
 ## Connect
 
 - Medium / Towards AI: https://blog.suchitra.me
-- LinkedIn: linkedin.com/in/suchitra-idumina
+- LinkedIn: https://linkedin.com/in/suchitra-idumina
