@@ -1,20 +1,32 @@
-# Hello there 👋, Im suchitra
-#### I am a passionate computer science student 
-I'm a passionate Computer Science student specializing in Artificial Intelligence at NIBM. I'm on a journey to explore the vast universe of computer science.
+# Hi, I'm Suchitra
 
+AI/ML Engineer focused on LLM fine-tuning, inference optimization, and AI security research.
 
-## My Toolbox 🛠️
+## What I work on
 
-- **Languages**: Python,JS, C#(Unity), Arduino,(and always expanding!)
-- **Tools**: Git, Figma, Docker
-- **Skills**: Linux, MySQL, firebase
-- **Frameworks and Libraries**: Unity, OpenCV, TensorFlow, svelte, sveltekit, Bootstrap 
+- **LLM fine-tuning**, SFT, LoRA/QLoRA, DPO/GRPO, end to end pipelines from data to deployment
+- **AI security**, prompt injection detection, attack taxonomy research, adversarial robustness
+- **LLM architecture research**, inference time weight adaptation, fast weight mechanisms, layer level design choices for test time training
+- **Agentic AI systems**, RAG pipelines, memory architectures, multi step LLM workflows in production
 
-## About Me 📚
+## Featured work
 
-- 🔭I'm currently studying at NIBM (Sri Lanka)) 
-- 🌱 I’m currently learning Sveltekit 
-- 👯 I’m looking to collaborate on Any project that can teach me more about the amazing field of computer science 
-- 📫 How to reach me: suchitraidumina@gmail.com 
+**Sri Lanka Inflation Prediction, SARIMA + LLM Hybrid**
+Modeled Sri Lanka's CPI inflation by combining SARIMA statistical time series forecasting with an LLM layer that detects and adjusts for external economic shocks like supply disruptions, policy shifts, and crisis events. The hybrid approach handles stable trend periods and irregular crisis regimes that purely statistical models miss.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Suchitra-idu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/suchitra_idumina//)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/suchitra_idumina)  
+**Continual Test-Time Adaptation Research (FYP)**
+Research project on in-place fast-weight TTT for LLMs, applied to streaming arXiv ML papers with cross-session persistent memory. Builds on and differentiates from recent work including In-Place TTT, SEAL, and FwPKM.
+
+**GPU Architecture Series**
+Technical writing series on how GPUs actually work, covering memory hierarchy, the roofline model, and implications for LLM inference, published on Towards AI.
+
+Some production agentic AI and RAG work was built for client and internship projects and is not public due to ownership constraints. Happy to discuss in detail on request.
+
+## Writing
+
+20+ technical publications on Towards AI and AI Advances covering transformer architectures, fine-tuning, inference optimization, AI security, agentic systems, and RAG design.
+
+## Connect
+
+- Medium / Towards AI: [[link](https://blog.suchitra.me/)]
+- LinkedIn: [[link](https://linkedin.com/in/suchitra-idumina)]
